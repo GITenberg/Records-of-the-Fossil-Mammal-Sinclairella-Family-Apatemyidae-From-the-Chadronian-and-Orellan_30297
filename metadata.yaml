@@ -1,0 +1,31 @@
+_repo: Records-of-the-Fossil-Mammal-Sinclairella-Family-Apatemyidae-From-the-Chadronian-and-Orellan_30297
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clemens, William Alvin
+    alias: Clemens, William A. (William Alvin)
+    gutenberg_agent_id: '34503'
+    url: http://www.gutenberg.org/2009/agents/34503
+description: ''
+gutenberg_issued: '2009-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30297'
+  lccn: '64063809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QE'
+- !lcsh 'Sinclairella dakotensis'
+- !lcsh 'Paleontology -- Nebraska -- Sioux County'
+- !lcsh 'Paleontology -- Oligocene'
+- !lcsh 'Paleontology -- Colorado -- Logan County'
+- !lcc 'QH'
+title: Records of the Fossil Mammal Sinclairella, Family Apatemyidae, From the Chadronian
+  and Orellan
+url: http://www.gutenberg.org/ebooks/30297
